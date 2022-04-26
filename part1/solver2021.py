@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 # solver2021.py : 2021 Sliding tile puzzle solver
 #
-# Code by: Name  - Vijay Iyer, IU ID - 2000595280
+# Code by: Name  - Shoiab Mohammed, Vijay Iyer.
 #
 # Based on skeleton code by D. Crandall, January 2021
 #

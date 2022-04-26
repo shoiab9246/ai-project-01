@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 # assign.py : Assign people to teams
 #
-# Code by: name IU ID
+# Code by: Shoiab Mohammed, Vijay
 #
 # Based on skeleton code by R. Shah and D. Crandall, January 2021
 #
